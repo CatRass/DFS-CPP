@@ -1,1 +1,1 @@
-A crude implementation of dedth first search in C++
+A crude implementation of depth first search in C++
